@@ -48,13 +48,19 @@ This project involves:
 
 ## 🏗️ **Project Structure**  
 
-📂 static/ # Contains CSS, JS, and supporting files 
-📂 templates/ # HTML templates for web interface 
-📄 WebApp.html # Interactive map (Leaflet.js + Folium) 
-📄 Web Scraper.ipynb # Python notebook for web scraping 
-📄 ranked_city_scores.csv # Processed dataset with ranked cities 
-📄 market_data_listing.csv # Raw extracted data for analysis 
-📄 Web App User Manual.docx # User guide for setup and usage
+📂 *static/* # Contains CSS, JS, and supporting files 
+
+📂 *templates/* # HTML templates for web interface 
+
+📄 *WebApp.html* # Interactive map (Leaflet.js + Folium) 
+
+📄 *Web Scraper.ipynb* # Python notebook for web scraping 
+
+📄 *ranked_city_scores.csv* # Processed dataset with ranked cities 
+
+📄 *market_data_listing.csv* # Raw extracted data for analysis 
+
+📄 *Web App User Manual.docx* # User guide for setup and usage
 
 
 ---
