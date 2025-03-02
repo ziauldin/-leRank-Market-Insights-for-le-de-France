@@ -108,9 +108,14 @@ This project was developed in collaboration with Syed Ali Azzam, focusing on dat
 ### 👥 How to Contribute
 
 Fork this repository.
+
 Create a feature branch (git checkout -b feature-branch).
+
 Commit your changes (git commit -m "Added new feature").
+
 Push to GitHub (git push origin feature-branch).
+
 Submit a Pull Request for review.
+
 ## 📜 License
 This project is released under the MIT License. You are free to use, modify, and distribute this code for educational and analytical purposes.
